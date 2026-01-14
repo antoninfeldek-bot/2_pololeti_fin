@@ -1,0 +1,16 @@
+body{
+    background-color: crimson;
+}
+
+h1,p{
+    text-align: center;
+    color: rgb(50, 119, 22);
+}
+
+ul{
+    color: rgb(0, 26, 255);
+}
+    
+a{
+    color: rgb(166, 255, 0);
+}

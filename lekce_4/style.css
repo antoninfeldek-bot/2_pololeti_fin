@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(253, 81, 58);
+}
+
+h1{
+    color: aqua;
+    text-align: center;
+}
+
+ul{
+    color: blue;
+}
+
+ol{
+    color: blueviolet;
+}

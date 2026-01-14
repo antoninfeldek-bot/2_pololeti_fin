@@ -1,0 +1,24 @@
+h4{
+    font-family: Arial, Helvetica, sans-serif, bold;
+    padding: 15px;
+    width: 160px;
+    border-width: 5px;
+    border-style: solid
+    
+}
+.box{
+    margin: 50px;
+    text-align: center;
+    background-color: chartreuse;
+    height: 100px;
+    display: grid;
+    place-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-width: 10px;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 20px;
+    }
+    .demo-wrap{
+        padding: 40px;
+    }
